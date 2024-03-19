@@ -5,7 +5,7 @@ Lemon dataset has been prepared to investigate the possibilities to tackle the i
 
 Dataset contains images of both bad and good quality lemons under slightly different lighting conditions (all under daylight) and sizes.
 Some samples
-![Image Description](https://i.im.ge/2022/09/25/1j8iSL.combine-images.jpgassets/154253224/c58441f2-5948-4a36-9fb8-88af626720e5)
+![Image Description](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cfb45zQ8JpfHuPe2XwrKLucekvuDGHTKoQ&usqp=CAU)
 
 
 
